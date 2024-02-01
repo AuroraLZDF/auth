@@ -1,4 +1,4 @@
-# webman-tech/auth
+# webman-aurora/auth
 
 Auth plugin for webman
 
@@ -24,12 +24,12 @@ Auth plugin for webman
 ## 安装
 
 ```bash
-composer require webman-tech/auth
+composer require webman-aurora/auth
 ```
 
 ## 配置
 
-详见： [auth.php](src/config/plugin/webman-tech/auth/auth.php)
+详见： [auth.php](src/config/plugin/webman-aurora/auth/auth.php)
 
 ## 使用
 
